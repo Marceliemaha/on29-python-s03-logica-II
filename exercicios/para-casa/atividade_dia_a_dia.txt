@@ -1,1 +1,10 @@
-#DESCREVA A ATIVIDADE
+DESCREVA A ATIVIDADE
+
+lavar roupa
+ver se tem agua da rua
+se tiver agua da rua, coloco roupas na maquína
+adiciono sabão
+adiciono amaciante
+escolho a opção no menu
+aperto o botão de ligar
+
